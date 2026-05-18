@@ -1,0 +1,6 @@
+music_download/
+*.mp3
+*.zip
+youtube_cookies.txt
+downloaded_history.txt
+.ipynb_checkpoints/
